@@ -8,10 +8,17 @@ body{
 }
 
 .bg1{
-    background-color: #134659!important;
+    background-color: #000!important;
 }
 .color1{
     color: #134659!important;
+}
+
+#header{
+    .logo{
+        width: 100%;
+        max-width: 250px;
+    }
 }
 
 #contact{
